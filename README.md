@@ -1,7 +1,8 @@
 <!-- Typing Effect Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Ram+Arora+%F0%9F%91%8B;Web+Dev+%7C+Full+Stack+Learner+%7C+Explorer;Fintech+Enthusiast+%7C+Videographer+%7C+DSA+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Ram+Arora+%F0%9F%91%8B;Full+Stack+Learner+%7C+Web+Dev;Fintech+Enthusiast+%7C+Explorer;Videographer+%7C+Traveler+%7C+DSA+Lover" alt="Typing SVG" />
 </p>
+
 
 ---
 
