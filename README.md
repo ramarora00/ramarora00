@@ -19,17 +19,17 @@
 
 ### 🎯 Goals
 
-- Build powerful fintech apps 💸
-- Master full-stack development 🔧
+- Wana Build powerful fintech apps 💸
+- Mastering full-stack development 🔧
 - Dive deeper into automation and data 🌐
 
 ---
 
 ### 🎮 Hobbies & Interests
 
+- 📈 Exploring finance and the world of money
 - 📸 Videography and capturing my travel journeys
 - 🏏 Big fan of cricket
-- 📈 Exploring finance and the world of money
 
 ---
 
@@ -88,7 +88,7 @@
 ### 🧭 Fun Fact
 
 I can sleep like a baby after a long day of coding 😴  
-…and wake up ready to ship fintech solutions 🚀
+…and wake up ready to ship solutions 🚀
 
 ---
 
