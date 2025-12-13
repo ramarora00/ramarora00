@@ -49,7 +49,7 @@ I believe great software is built at the intersection of
 
 ---
 
-## 📊 GitHub Stats (Neon Dark)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramarora00&show_icons=true&theme=tokyonight" />
@@ -76,7 +76,7 @@ I believe great software is built at the intersection of
 
 ---
 
-## ⚡ Activity Graph (Aesthetic Neon)
+## ⚡ Activity Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramarora00&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=00eaff&line=0077ff&point=00eaff" />
@@ -84,7 +84,7 @@ I believe great software is built at the intersection of
 
 ---
 
-## ✨ Neon Quote of the Day
+## ✨ Quote of the Day
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=800&lines=%E2%80%9CBuild.+Break.+Learn.+Repeat.%E2%80%9D;%E2%80%9CConsistency+beats+motivation.%E2%80%9D;%E2%80%9CLearn%2C+Ship%2C+Improve+—+Repeat.%E2%80%9D" alt="Neon Quote" />
