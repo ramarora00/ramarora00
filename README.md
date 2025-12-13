@@ -87,8 +87,9 @@ I believe great software is built at the intersection of
 ## ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=800&lines=%E2%80%9CBuild.+Break.+Learn.+Repeat.%E2%80%9D;%E2%80%9CConsistency+beats+motivation.%E2%80%9D;%E2%80%9CLearn%2C+Ship%2C+Improve+—+Repeat.%E2%80%9D" alt="Neon Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Consistency+beats+motivation." />
 </p>
+
 
 ---
 
