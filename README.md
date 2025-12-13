@@ -1,46 +1,42 @@
 <!-- Typing Effect Header -->
 <h1 align="center">Hey There, I'm Ram 👋</h1>
+
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Ram+Arora+%F0%9F%91%8B;Full+Stack+Learner+%7C+Web+Dev;Fintech+Enthusiast+%7C+Explorer;Videographer+%7C+Traveler+%7C+DSA+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Web+Dev+%7C+DSA+%7C+Automation" alt="Typing SVG" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I’m a **Full-Stack Developer** with a strong interest in **Fintech systems**, backend architecture, and automation-driven workflows.  
+I enjoy transforming ideas into **clean, scalable, and structured applications** that solve real-world problems.
+
+Currently working with **Node.js**, **MongoDB**, and modern backend patterns, while consistently sharpening my **DSA fundamentals** to improve problem-solving depth.
+
+I believe great software is built at the intersection of  
+**clarity in thought, consistency in effort, and curiosity to explore.**
 
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Featured Projects (Pinned)
 
-- 🎓 BTech (3rd Year) student, constantly building skills in **web development** and **automation**
-- 🧠 Currently learning: `Node.js`, `MongoDB`, `Full-Stack`, and mastering `DSA`
-- 🏦 Passionate about building **Fintech** projects that solve real-world problems
-- 🔥 I believe: *“If the interest is real, I can learn anything and everything”*
-
----
-
-### 🎯 Goals
-
-- Wana Build powerful fintech apps 💸
-- Mastering full-stack development 🔧
-- Dive deeper into automation and data 🌐
-
----
-
-### 🎮 Hobbies & Interests
-
-- 📈 Exploring finance and the world of money
-- 📸 Videography and capturing my travel journeys
-- 🏏 Big fan of cricket
+<p align="center">
+  <a href="https://github.com/ramarora00/DSALeetVS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=DSALeetVS&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ramarora00/finance-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=finance-dashboard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ramarora00/collab-workspace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=collab-workspace&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-### 💬 Quote That Drives Me
-
-> *“Stay curious. Stay building. Everything is learnable.”* — Unknown  
-> *"Learning never exhausts the mind, it fuels it."* — Leonardo da Vinci
-
----
-
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -53,30 +49,50 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats (Neon Dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramarora00&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarora00&layout=compact&theme=tokyonight" height="180em" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramarora00&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarora00&layout=compact&theme=tokyonight" />
+</p>
+
+---
+## 🔥 Consistency Snapshot
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramarora00&theme=tokyonight" />
+</p>
+
+
+---
+
+## 📌 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramarora00&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramarora00&theme=tokyonight" />
+</p>
+
+
+---
+
+## ⚡ Activity Graph (Aesthetic Neon)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramarora00&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=00eaff&line=0077ff&point=00eaff" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## ✨ Neon Quote of the Day
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramarora00&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=800&lines=%E2%80%9CBuild.+Break.+Learn.+Repeat.%E2%80%9D;%E2%80%9CConsistency+beats+motivation.%E2%80%9D;%E2%80%9CLearn%2C+Ship%2C+Improve+—+Repeat.%E2%80%9D" alt="Neon Quote" />
 </p>
 
 ---
 
-### ⚡ Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramarora00&theme=tokyonight)
-
----
-
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-a-94814a297/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramarora00)
@@ -85,11 +101,26 @@
 
 ---
 
-### 🧭 Fun Fact
+## 🧭 Fun Fact
 
 I can sleep like a baby after a long day of coding 😴  
-…and wake up ready to ship solutions 🚀
+…and wake up ready to ship solutions 🚀  
 
 ---
 
-> **✨ Keep Learning. Keep Building. Keep Capturing.**
+<!-- Futuristic Wave Footer -->
+<div align="center">
+  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width:100%;height:60px;">
+    <path d="M0,0 C150,100 350,0 600,40 C850,80 1050,10 1200,40 L1200,120 L0,120 Z" style="fill:#0d1117;">
+      <animate attributeName="d"
+               dur="7s"
+               repeatCount="indefinite"
+               values="
+                 M0,0 C150,100 350,0 600,40 C850,80 1050,10 1200,40 L1200,120 L0,120 Z;
+                 M0,0 C150,10 350,100 600,20 C850,0 1050,80 1200,20 L1200,120 L0,120 Z;
+                 M0,0 C150,100 350,0 600,40 C850,80 1050,10 1200,40 L1200,120 L0,120 Z" />
+    </path>
+  </svg>
+</div>
+
+<p align="center"><b>✨ Keep Learning. Keep Building. Keep Capturing.</b></p>
