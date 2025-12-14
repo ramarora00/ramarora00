@@ -60,8 +60,8 @@ I believe great software is built at the intersection of
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramarora00&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarora00&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramarora00&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramarora00&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ I believe great software is built at the intersection of
 ## 📌 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramarora00&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramarora00&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramarora00&theme=tokyonight&cache_seconds=1800&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramarora00&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
 
