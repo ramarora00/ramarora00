@@ -10,13 +10,21 @@
 ## 👨‍💻 About Me
 
 I’m a **Full-Stack Developer** with a strong interest in **Fintech systems**, backend architecture, and automation-driven workflows.  
-I enjoy transforming ideas into **clean, scalable, and structured applications** that solve real-world problems.
+I focus on building clean, scalable, and well-structured applications that solve real-world problems.
 
 Currently working with **Node.js**, **MongoDB**, and modern backend patterns, while consistently sharpening my **DSA fundamentals** to improve problem-solving depth.
 
 I believe great software is built at the intersection of  
 **clarity in thought, consistency in effort, and curiosity to explore.**
+---
 
+
+## 🚧 Currently Working On
+
+- 🔹 **Backend Development** with Node.js & MongoDB  
+- 🔹 Building **Fintech-oriented dashboards & systems**  
+- 🔹 Improving **DSA problem-solving** through pattern-based practice  
+- 🔹 Exploring **automation** to simplify developer workflows  
 
 ---
 
@@ -110,18 +118,6 @@ I can sleep like a baby after a long day of coding 😴
 ---
 
 <!-- Futuristic Wave Footer -->
-<div align="center">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width:100%;height:60px;">
-    <path d="M0,0 C150,100 350,0 600,40 C850,80 1050,10 1200,40 L1200,120 L0,120 Z" style="fill:#0d1117;">
-      <animate attributeName="d"
-               dur="7s"
-               repeatCount="indefinite"
-               values="
-                 M0,0 C150,100 350,0 600,40 C850,80 1050,10 1200,40 L1200,120 L0,120 Z;
-                 M0,0 C150,10 350,100 600,20 C850,0 1050,80 1200,20 L1200,120 L0,120 Z;
-                 M0,0 C150,100 350,0 600,40 C850,80 1050,10 1200,40 L1200,120 L0,120 Z" />
-    </path>
-  </svg>
-</div>
+
 
 <p align="center"><b>✨ Keep Learning. Keep Building. Keep Capturing.</b></p>
