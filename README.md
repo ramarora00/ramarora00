@@ -32,13 +32,13 @@ I believe great software is built at the intersection of
 
 <p align="center">
   <a href="https://github.com/ramarora00/DSALeetVS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=DSALeetVS&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=DSALeetVS&theme=tokyonight&cache_seconds=1800&v=1" />
   </a>
   <a href="https://github.com/ramarora00/finance-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=finance-dashboard&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=finance-dashboard&theme=tokyonight&cache_seconds=1800&v=1" />
   </a>
   <a href="https://github.com/ramarora00/collab-workspace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=collab-workspace&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=collab-workspace&theme=tokyonight&cache_seconds=1800&v=1" />
   </a>
 </p>
 
