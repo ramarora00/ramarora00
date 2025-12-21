@@ -96,19 +96,6 @@ I believe great software is built at the intersection of
 ---
 
 
-
----
-
-## 🧩 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ramarora00/ramarora00/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-a-94814a297/)
