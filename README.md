@@ -44,16 +44,19 @@ I believe great software is built at the intersection of
 
 ---
 
-## 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<h3 align="center">⚒️ Daily Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,bash,powershell,vscode,postman" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=npm,figma,notion,gmail,twitter,linkedin,vercel,ps" />
+</div>
+
+<h3 align="center">⚙️ Languages & Frameworks</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql" />
+</div>
+
 
 ---
 
@@ -92,11 +95,16 @@ I believe great software is built at the intersection of
 
 ---
 
-## ✨ Quote of the Day
+
+
+---
+
+## 🧩 Contribution Activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Consistency+beats+motivation." />
+  <img src="https://raw.githubusercontent.com/ramarora00/ramarora00/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 ---
